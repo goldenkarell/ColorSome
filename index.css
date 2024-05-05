@@ -1,1 +1,17 @@
-
+body {
+    background-color: MediumSeaGreen;
+}
+.color {
+    fill: #404040;
+    cursor: pointer;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rainbow-text {
+    background-image: repeating-linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
