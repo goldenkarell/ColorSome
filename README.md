@@ -8,5 +8,4 @@ It's simple really, you're given the picture of a cute cartoon bear. You are abl
 Karl Abanis [email:karlmandyhabanis@lewisu.edu](mailto:karlmandyhabanis@lewisu.edu)
 
 ## Credits
-[W3Schools](https://www.w3schools.com/html/) for most of the HTML, CSS, and JavaScript code for the projec.
-As well as [Freepik](https://www.freepik.com) for the svg file of the bear graphic.
+[W3Schools](https://www.w3schools.com/html/) for most of the HTML, CSS, and JavaScript code for the project. As well as [Freepik](https://www.freepik.com) for the svg file of the bear graphic.
